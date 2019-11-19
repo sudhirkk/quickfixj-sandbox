@@ -1,2 +1,2 @@
-# quickfixj-sandbox
+# fix-sandbox
 QuickFixJ sample implementation experiments

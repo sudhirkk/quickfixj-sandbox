@@ -1,0 +1,8 @@
+.idea
+QuickFIXJ.iml
+target/
+server_file_store/
+server_logs/
+client_file_store/
+client_logs/
+logs/
